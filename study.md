@@ -11,3 +11,5 @@
     things
 ###file
     everything is file
+###function
+    Distinguish system file function and Cstandard documents function
