@@ -13,3 +13,6 @@
     everything is file
 ###function
     Distinguish system file function and Cstandard documents function
+###vim
+    A program use "CTRL + n" find word can not match very likely the
+    include file no write!
